@@ -1,0 +1,30 @@
+DevOps is not just about automated tooling, people and process DevOps expect to see a high premium placed on openness and transparency
+*DevOps is not a framework or a workflow. It's a culture that is overtaking the business world. 
+*DevOps ensures collaboration and communication between software engineers (Dev) and IT operations (Ops). 
+Advantages --- With DevOps, changes make it to production faster. Resources are easier to share. And large-scale systems are easier to manage and maintain.
+
+
+
+* Culture is driven by behavior. Culture exists among people with a mutual understanding of each other where they're coming from. Early on in IT organizations, we split teams into two majors groups. 
+  Development, they were charged with creating features. And operations they were charged with maintaining stability
+
+*Automation is a critical part of our DevOps journey. Once you begin to understand your culture, 
+  you can create a fabric of automation that allows you to control your systems and your applications. 
+
+*DevOps strongly advises you to measure key metrics across the organization.
+
+*Sharing ideas and problems is the heart of collaboration. 
+  And it's also really the heart of DevOps
+
+*tells us that we should make sure to focus on the overall outcome of the entire pipeline or value chain. 
+  It's easy to make the mistake of optimizing one part of that chain at the expense of overall results.
+
+*The second way, amplifying feedback loops, is all about creating, shortening, and 
+ amplifying feedback loops between the parts of the organization that are in the flow of that value chain. 
+
+*A feedback loop is simply a process that takes its own output into consideration when deciding what to do next
+
+*The third way reminds us to create a work culture that allows for both continuous experimentation and learning.
+
+Use the third way, a culture of continuous experimentation and learning, when creating team processes and standards, and as part of your leadership style.
+ Encourage sharing and trying new ideas. Engineers are problem finders and problem solvers by nature.
